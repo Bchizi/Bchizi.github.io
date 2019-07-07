@@ -3,5 +3,12 @@
     margin: 0;
     padding: 0;
 }
-body{background-image: url(http://www.52dazhew.com/data/out/93/586194890-free-hd-1920x1080-wallpaper-pc.jpg)
+body{background-color: #63aabc;
+
+}
+.ABOUT_ME{
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
 }
