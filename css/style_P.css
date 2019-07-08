@@ -3,7 +3,10 @@
     margin: 0;
     padding: 0;
 }
-body{background-color: #63aabc;
+body{background-image:url(https://thewallpaper.co//wp-content/uploads/2017/10preview/tree-nature-rivers-amazing-trees-landscape-amazing-trees-forest-green-peace.jpg)
+}
+h1{
+    text-align: center;
 
 }
 .ABOUT_ME{
@@ -11,4 +14,25 @@ body{background-color: #63aabc;
     color: white;
     margin: 20px;
     padding: 20px;
+    
 }
+img{
+    float: right;
+  }
+
+
+h2{text-align: center;
+text-decoration-color: aqua;}
+p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
+  }
+.projects{
+    background-color: black;
+    color: #eb5f5d;
+    margin: 20px;
+    padding: 20px;
+    text-emphasis-color: #d3f6f3;
+}   
+} 
