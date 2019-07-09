@@ -1,77 +1,78 @@
-*
-{
-    margin: 0;
-    padding: 0;
+* {
+	margin: 0;
+	padding: 0;
 }
-body{background-image:url(Https://thewallpaper.co//wp-content/uploads/2017/10preview/tree-nature-rivers-amazing-trees-landscape-amazing-trees-forest-green-peace.jpg)
+body {
+	background-image: url(Https://thewallpaper.co//wp-content/uploads/2017/10preview/tree-nature-rivers-amazing-trees-landscape-amazing-trees-forest-green-peace.jpg);
 }
-.nav li{display: inline-block}
-.nav li a{
-    display: block;
-    padding: 16px;
-    text-align: center;
-    background-color: #5de67b;
-    font-family: sans-serif;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 8px;
-  
-    
+.nav li {
+	display: inline-block;
+}
+.nav li a {
+	display: block;
+	padding: 16px;
+	text-align: center;
+	background-color: #5de67b;
+	font-family: sans-serif;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 8px;
+	opacity: 0.8;
+}
+h1 {
+	text-align: center;
+}
+.ABOUT_ME {
+	background-color: black;
+	color: white;
+	margin: 20px;
+	float: left;
+	padding: 20px;
+	width: 70%;
+	height: 200px;
+	font-family: fantasy;
+	border-radius: 12px;
+	opacity: 0.8;
+}
+img {
+	float: right;
+	border-radius: 8px;
+}
 
+h2 {
+	text-align: center;
+	text-decoration-color: aqua;
 }
-h1{
-    text-align: center;
-}
-.ABOUT_ME{
-    background-color: black;
-    color: white;
-    margin: 20px; 
-    float: left;
-    padding: 20px;
-    width: 70%;
-    height: 200px;  
-    font-family: fantasy;
-    border-radius: 12px;
-    
-}
-img{
-    float: right;
-    border-radius: 8px;
-  }
-
-
-h2{text-align: center;
-text-decoration-color: aqua;}
 p {
-    text-indent: 50px;
-    text-align: justify;
-    letter-spacing: 3px;
-    font-family: sans-serif;
-  }
-.projects{
-    background-color: black;
-    color: #ebebeb;
-    margin: 10px;
-    padding: 100px;
-    text-emphasis-color: #d3f6f3;
-    float: left;
-    overflow: auto;
-    border-radius: 12px;
-    
-}   
-a{
-    color: white;
-    font-family: serif;
-    font-size: 30px
+	text-indent: 50px;
+	text-align: left;
+	letter-spacing: 3px;
+	font-family: sans-serif;
 }
-.hobbies{ background-color: aqua;
-    margin: 10px;
-    padding: 100px;
-    float: inline-end;
-    overflow: auto;
-    border-radius: 8px;
-    opacity: 0.5;
-    font-family: serif;
-    font-size: 30px;
-
+.projects {
+	background-color: black;
+	color: #ebebeb;
+	margin: 10px;
+	padding: 100px;
+	text-emphasis-color: #d3f6f3;
+	float: left;
+	overflow: auto;
+	border-radius: 12px;
+	opacity: 0.8;
+}
+a {
+	color: white;
+	font-family: serif;
+	font-size: 30px;
+}
+.hobbies {
+	background-color: aqua;
+	margin: 10px;
+	padding: 100px;
+	float: inline-end;
+	overflow: auto;
+	border-radius: 8px;
+	opacity: 0.8;
+	font-family: serif;
+	font-size: 30px;
 }
