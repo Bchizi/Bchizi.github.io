@@ -52,8 +52,8 @@ p {
 .projects {
 	background-color: black;
 	color: #ebebeb;
-	margin: 10px;
-	padding: 100px;
+	margin: 100px;
+	padding: 150px;
 	text-emphasis-color: #d3f6f3;
 	float: left;
 	overflow: auto;
